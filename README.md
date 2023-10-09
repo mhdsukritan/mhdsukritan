@@ -7,10 +7,8 @@
 I'm a passionate data analyst with a strong background in leveraging data to drive informed decisions. My journey in the world of data analysis has led me to explore diverse industries and solve complex problems. Currently, I'm deeply fascinated by the application of the finite element method in engineering simulations, and I love finding innovative ways to integrate it into my analytical work.
 
 💼 Professional Experience:
-📈 Lightweight Structures Laboratory ITB – Bandung, Indonesia
-Structural Data Analyst (Jun 2023 - Aug 2023)
-🔬 DOW Indonesia - Cilegon, Indonesia
-Reliability Engineer Intern (May 2022 - Jul 2022)
+- 📈 Lightweight Structures Laboratory ITB – Structural Data Analyst (Jun 2023 - Aug 2023)
+- 🔬 DOW Indonesia - Reliability Engineer Intern (May 2022 - Jul 2022)
 
 🌱 What I'm Currently Working On:
 Right now, I'm diving deep into the world of finite element analysis and exploring its potential applications in various domains. Additionally, I'm constantly sharpening my skills in data visualization, machine learning, and statistical analysis to extract meaningful insights from data.
