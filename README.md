@@ -23,7 +23,6 @@ Right now, I'm diving deep into the world of finite element analysis and explori
 - Finite Element Analysis (FEM)
 - Python Programming
 - SQL
-- [Any other relevant skills]
 
 📚 Education:
 🎓 Bachelor’s degree in Materials Engineering from Institut Teknologi Bandung
